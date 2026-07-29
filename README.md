@@ -56,15 +56,4 @@ The models are evaluated using metrics suitable for medical classification and c
 * **t-SNE:** Visualizes the high-dimensional feature representations in a 2D space to observe class clustering.
 * **Grad-CAM:** Generates heatmaps over the input images to indicate which spatial regions (e.g., specific lesions) most influenced the model's predictions.
 
-## Getting Started
 
-### Prerequisites
-* Python 3.8+
-* TensorFlow 2.x
-* OpenCV, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YourUsername/APTOS-Diabetic-Retinopathy.git](https://github.com/YourUsername/APTOS-Diabetic-Retinopathy.git)
-   cd APTOS-Diabetic-Retinopathy
